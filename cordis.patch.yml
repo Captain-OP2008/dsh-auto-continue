@@ -1,0 +1,6 @@
+# dsh-auto-continue bundle 层：插入自动续行插件行。
+# 装了 bundle 即启用；config 缺省时用插件内的默认值（见 README 的配置表）。
+- insert:
+    - id: auto-continue
+      name: dsh-auto-continue
+      config: {}
